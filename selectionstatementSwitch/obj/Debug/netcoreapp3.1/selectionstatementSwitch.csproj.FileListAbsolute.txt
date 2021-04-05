@@ -1,0 +1,13 @@
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.csprojAssemblyReference.cache
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.AssemblyInfoInputs.cache
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.AssemblyInfo.cs
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.csproj.CoreCompileInputs.cache
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.exe
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.deps.json
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.runtimeconfig.json
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.runtimeconfig.dev.json
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.dll
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\bin\Debug\netcoreapp3.1\selectionstatementSwitch.pdb
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.dll
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.pdb
+C:\Users\apowa\repos\selectionstatementSwitch\selectionstatementSwitch\obj\Debug\netcoreapp3.1\selectionstatementSwitch.genruntimeconfig.cache
